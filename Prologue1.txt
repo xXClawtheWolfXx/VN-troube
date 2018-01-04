@@ -1,0 +1,21 @@
+Quinn;"I feel incomplete";0
+Allison;"Really?";0
+Allison;"This is coming from a woman who has everything she ever wanted.";0
+Player; Restart:line,0;Continue:line,4
+Quinn;"Actually, I wanted something else, but they had to be put down.";0
+Allison;"Are you lonely?";1
+Allison;"I could fill that hole for you if you want";1
+Quinn;"U-um...";1
+Quinn;"I-I don't think you can.";1
+Allison;"Right";1
+Quinn;"But you can find me someone who can.";0
+Quinn;"I'm thinking a girl 20-23 years of age, small, and cute.";0
+Allison;"Basically the opposite of you?";1
+Quinn;"It's a tactic.";1
+Allison;"I'll head out tommorrow.";0
+
+
+
+
+
+
